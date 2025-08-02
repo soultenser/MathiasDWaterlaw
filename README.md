@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MathiasDWaterlaw or simply Mathias
 - 👀 I’m interested in Web Development and programming in general
-- 🌱 I’m currently learning React.js and i'm really intrigued by Svelte
+- 🌱 I’m currently learning C at the 42school in Florence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: You can write me an email at mathiasdellosa@gmail.com
 - 😄 Pronouns: He - Him

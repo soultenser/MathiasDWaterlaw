@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MathiasDWaterlaw or simply Mathias
+- 👋 Hi, I’m Mathias aka soultenser
 - 👀 I’m interested in Web Development and programming in general
 - 🌱 I’m currently learning C at the 42school in Florence
 - 💞️ I’m looking to collaborate on ...
